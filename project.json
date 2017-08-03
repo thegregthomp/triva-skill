@@ -1,0 +1,8 @@
+{
+  "name": "trivia-alexa",
+  "description": "Alexa Trivia Skill",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::356624665091:role/lambda_basic_execution",
+  "handler":"index.handler"
+}
